@@ -1,3 +1,7 @@
+# 项目介绍
+
+这个项目是Redux官方教程的Redux Essentials中给出的教程，设计了一个社交网页。官方教程一步一步教如何使用redux做数据管理，代码的优化也有涉及，条理清晰，推荐看英文版的。
+
 # Redux Essentials Tutorial Example
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
